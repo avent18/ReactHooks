@@ -1,3 +1,8 @@
+A collection of React projects and examples demonstrating the use of React Hooks such as useState, useEffect, useContext, useReducer, and custom hooks. This repository serves as a learning resource and reference for building modern React applications with functional components and hooks-based state management.
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
